@@ -1,5 +1,8 @@
 # liri-node-app
 
+Video Link:
+https://youtu.be/h_DC8qugrVs
+
 Purpose: 
 To obtain information requested using command lines. 
 Accessible data pertains to the following:
